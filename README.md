@@ -5,4 +5,5 @@ In this competition, our aim is to train a machine learning model based on the w
 #### Methods :point_down:
 The implemented solution can be summarized in the following core steps:
 * LGBMRegressor
-* StratifiedKFold
+* KFold as a bagging approach
+* Ensemble learning
